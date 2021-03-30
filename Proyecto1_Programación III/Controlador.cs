@@ -75,7 +75,7 @@ namespace Proyecto1_Programación_III
 
             Console.WriteLine("Cuál versión quieres eliminar?");
             string nombreNodo = Console.ReadLine();
-            this.listaString.Recorrer(this.listaString.Eliminar(this.listaString, nombreNodo));
+            this.listaString.RecorrerInverso(this.listaString.Eliminar(this.listaString, nombreNodo));
         }
 
     }

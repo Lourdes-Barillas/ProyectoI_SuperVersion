@@ -11,3 +11,16 @@ C:\Users\Adriana P\source\repos\Proyecto1_Programación III\obj\Debug\netcoreapp
 C:\Users\Adriana P\source\repos\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.dll
 C:\Users\Adriana P\source\repos\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.pdb
 C:\Users\Adriana P\source\repos\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.genruntimeconfig.cache
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\bin\Debug\netcoreapp3.1\Proyecto1_Programación III.exe
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\bin\Debug\netcoreapp3.1\Proyecto1_Programación III.deps.json
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\bin\Debug\netcoreapp3.1\Proyecto1_Programación III.runtimeconfig.json
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\bin\Debug\netcoreapp3.1\Proyecto1_Programación III.runtimeconfig.dev.json
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\bin\Debug\netcoreapp3.1\Proyecto1_Programación III.dll
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\bin\Debug\netcoreapp3.1\Proyecto1_Programación III.pdb
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.csprojAssemblyReference.cache
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.AssemblyInfoInputs.cache
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.AssemblyInfo.cs
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.csproj.CoreCompileInputs.cache
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.dll
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.pdb
+C:\Users\Adriana P\Desktop\PROYECTO EN CONJUNTO\ProyectoI_SuperVersion\Proyecto1_Programación III\obj\Debug\netcoreapp3.1\Proyecto1_Programación III.genruntimeconfig.cache

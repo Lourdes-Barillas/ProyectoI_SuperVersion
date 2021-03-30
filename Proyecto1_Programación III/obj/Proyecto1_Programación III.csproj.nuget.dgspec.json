@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adriana P\\source\\repos\\Proyecto1_Programación III\\Proyecto1_Programación III.csproj": {}
+    "C:\\Users\\Adriana P\\Desktop\\PROYECTO EN CONJUNTO\\ProyectoI_SuperVersion\\Proyecto1_Programación III\\Proyecto1_Programación III.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adriana P\\source\\repos\\Proyecto1_Programación III\\Proyecto1_Programación III.csproj": {
+    "C:\\Users\\Adriana P\\Desktop\\PROYECTO EN CONJUNTO\\ProyectoI_SuperVersion\\Proyecto1_Programación III\\Proyecto1_Programación III.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adriana P\\source\\repos\\Proyecto1_Programación III\\Proyecto1_Programación III.csproj",
+        "projectUniqueName": "C:\\Users\\Adriana P\\Desktop\\PROYECTO EN CONJUNTO\\ProyectoI_SuperVersion\\Proyecto1_Programación III\\Proyecto1_Programación III.csproj",
         "projectName": "Proyecto1_Programación III",
-        "projectPath": "C:\\Users\\Adriana P\\source\\repos\\Proyecto1_Programación III\\Proyecto1_Programación III.csproj",
+        "projectPath": "C:\\Users\\Adriana P\\Desktop\\PROYECTO EN CONJUNTO\\ProyectoI_SuperVersion\\Proyecto1_Programación III\\Proyecto1_Programación III.csproj",
         "packagesPath": "C:\\Users\\Adriana P\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adriana P\\source\\repos\\Proyecto1_Programación III\\obj\\",
+        "outputPath": "C:\\Users\\Adriana P\\Desktop\\PROYECTO EN CONJUNTO\\ProyectoI_SuperVersion\\Proyecto1_Programación III\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

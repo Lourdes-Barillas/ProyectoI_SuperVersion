@@ -63,6 +63,39 @@ namespace Proyecto1_Programación_III
 
         }//fin del método
 
+        public void RecorrerInverso(ListaVersiones<T> lista)
+        {
+            if (lista.primero != null)
+            {
+            //Recoree para contar cuántos elementos hay
+                int i = 0;
+                lista.actual = lista.primero;
+                do
+                {
+                    i++;
+                    lista.actual = lista.actual.siguiente;
+                } while (lista.actual != null);
+            //Hacemos un array con los datos de la lista y el tamaño establecido y guardamos en ese array los datos de la lista
+                T[] nodos = new T[i];
+                i = 0;
+                lista.actual = lista.primero;
+                do
+                {
+                    nodos[i] = lista.actual.data;
+                    i++;
+                    lista.actual = lista.actual.siguiente;
+                } while (lista.actual != null);
+                //Imprimimos lo que obtuvimos de mayor a menor
+                while (i > 0)
+                {
+                    i--;
+                    Console.WriteLine(i + ". " + nodos[i]);
+                }
+
+            }
+
+        }//fin del método
+
         public ListaVersiones<T> Eliminar(ListaVersiones<T> lista, string pNombreNodo)
         {
             ListaVersiones<T> listaNueva = new ListaVersiones<T>();
